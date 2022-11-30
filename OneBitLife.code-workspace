@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../cursojs"
+		},
+		{
+			"path": "../landing page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cursojs"
+	}
+}
